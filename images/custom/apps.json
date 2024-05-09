@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://github.com/frappe/erpnext.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/payments.git",
+    "branch": "version-15"
+  },
+  {
+    "url": "https://github.com/frappe/hrms.git",
+    "branch": "version-15-hotfix"
+  },
+  {
+    "url": "https://gitee.com/shuigu/erpnext_wxwork.git",
+    "branch": "master"
+  },
+  {
+    "url": "https://github.com/tanknew/erpnext_chinese.git",
+    "branch": "main"
+  }
+]
